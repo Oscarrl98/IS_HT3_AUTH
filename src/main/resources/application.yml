@@ -1,0 +1,12 @@
+server:
+  port : 8085
+
+
+secretkey: qwertyuiopasdfghjklzxcvbnm123456
+expire_lenght: 300000 #5 min
+---
+
+
+
+
+
